@@ -1,0 +1,9 @@
+class Main {
+  public static void main(String[] args) {
+    int number1 = 56;
+    double number2 = 93.85;
+    final boolean truth = true;
+    System.out.println("There are " + number1 + " students in my school with an average grade of " + number2);
+    System.out.print("The information is definitely " + truth);
+  }
+}
